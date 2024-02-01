@@ -7,7 +7,7 @@ Apache CXF 3.6.2
 
 | Operating System    | JDK       | Maven | Architecture | Fast Build |Full Build | Date  |
 |---------------------|-----------|-------|--------------|------------|-----------|-------|
-| CentOS Stream 9         | Eclipse Temurin 11  | 3. | PPC64LE      | _ | _ | Feb 1, 2024 |
+| CentOS Stream 9         | Eclipse Temurin 11  | 3.9.6 | PPC64LE      | Success | Success | Feb 1, 2024 |
 
 
 ## Errata
