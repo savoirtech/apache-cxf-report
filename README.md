@@ -11,6 +11,7 @@ Apache CXF 4.0.3
 | CentOS Stream 9         | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      | Failure | Feb 2, 2024 |
 | CentOS Stream 9         | Semeru Open Edition 17  | 3.9.6 | PPC64LE  | Failure | Feb 2, 2024 |
 | Ubuntu 22.04 LTS        | Eclipse Temurin 17  | 3.9.5 | x64      | Success | Feb 5, 2024 |
+| Ubuntu 22.04 LTS        | Semeru Open Edition 17  | 3.9.5 | x64      | Failure | Feb 5, 2024 |
 
 
 
