@@ -22,7 +22,8 @@ Apache CXF 4.0.4
 | Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64      | Success | July 10, 2024 |
 | Windows 11 Pro      | IBM Semeru 17  | 3.8.5 | x64      | Failure | July 10, 2024 |
 | Windows 11 Pro      | Azul Zulu 17  | 3.8.5 | x64      | Success | July 10, 2024 |
-| Windows 11 Pro      | MS OpenJDK 17  | 3.9.8 | AArch64      | Failure | July 10, 2024 |
+| Windows 11       | MS OpenJDK 17  | 3.9.8 | AArch64      | Failure | July 10, 2024 |
+| Windows 11       | Azul Zulu 17  | 3.9.8 | AArch64      | Failure | July 10, 2024 |
 
 
 
