@@ -27,9 +27,9 @@ Apache CXF 4.0.4
 ## Errata
 
 
-Fast build to assure compilation. 
+Fast build to assure compilation. Failed testsuite = failed build.
 ```
-mvn clean install -Dfastinstall
+mvn clean install
 ```
 
 ## How to use this repo
