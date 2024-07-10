@@ -7,15 +7,15 @@ Apache CXF 4.0.4
 
 | Operating System    | JDK       | Maven | Architecture | Full Build | Date  |
 |---------------------|-----------|-------|--------------|------------|-------|
-| CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      | - | July 10, 2014 |
-| CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      | - | July 10, 2014 |
-| CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE      | - | July 10, 2014 |
-| MacOS 14.5          | IBM Semeru 17  | 3.9.5 | AArch64      | - | July 10, 2014 |
-| Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64      | - | July 10, 2014 |
-| Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64      | - | July 10, 2014 |
-| Ubuntu 22.04 LTS    | Amazon Corretto 17  | 3.9.5 | x64      | - | July 10, 2014 |
-| Windows 11 Pro      | IBM Semeru 17  | 3.9.5 | x64      | - | July 10, 2014 |
-| Windows 11 Pro      | MS OpenJDK 17  | 3.9.8 | AArch64      | - | July 10, 2014 |
+| CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      | - | July 10, 2024 |
+| CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      | - | July 10, 2024 |
+| CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE      | - | July 10, 2024 |
+| MacOS 14.5          | IBM Semeru 17  | 3.9.5 | AArch64      | - | July 10, 2024 |
+| Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64      | - | July 10, 2024 |
+| Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64      | - | July 10, 2024 |
+| Ubuntu 22.04 LTS    | Amazon Corretto 17  | 3.9.5 | x64      | - | July 10, 2024 |
+| Windows 11 Pro      | IBM Semeru 17  | 3.9.5 | x64      | - | July 10, 2024 |
+| Windows 11 Pro      | MS OpenJDK 17  | 3.9.8 | AArch64      | - | July 10, 2024 |
 
 
 
