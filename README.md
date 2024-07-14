@@ -7,9 +7,9 @@ Apache CXF 3.5.9
 
 | Operating System    | JDK       | Maven | Architecture | Full Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|------------|-------|---------|
-| CentOS Stream 9         | Eclipse Temurin 11  | 3.9.6 | PPC64LE      |  |  |
-| CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      |  |  |
-| CentOS Stream 9         | Semeru Open Edition 11  | 3.9.6 | PPC64LE  |  |  |
+| CentOS Stream 9         | Eclipse Temurin 11  | 3.9.6 | PPC64LE      |  |  | |
+| CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      | Failure | July 14, 2024 | Apache CXF XKMS X509 Handlers |
+| CentOS Stream 9         | Semeru Open Edition 11  | 3.9.6 | PPC64LE  |  |  | |
 | Ubuntu 22.04 LTS         | Azul Zulu 11  | 3.9.6 | x64  | Failure | July 14, 2024 | Apache CXF Forked System Tests |
 
 
