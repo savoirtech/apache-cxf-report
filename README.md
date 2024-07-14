@@ -1,15 +1,15 @@
 # Apache CXF Report
 --- 
 
-Apache CXF 3.6.2
+Apache CXF 3.6.4
 
 ## System Report
 
 | Operating System    | JDK       | Maven | Architecture | Full Build | Date  |
 |---------------------|-----------|-------|--------------|------------|-------|
-| CentOS Stream 9         | Eclipse Temurin 11  | 3.9.6 | PPC64LE      | Success | Feb 1, 2024 |
-| CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      | Failure | Feb 1, 2024 |
-| CentOS Stream 9         | Semeru Open Edition 11  | 3.9.6 | PPC64LE  | Failure | Feb 1, 2024 |
+| CentOS Stream 9         | Eclipse Temurin 11  | 3.9.6 | PPC64LE      |  |  |
+| CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      |  |  |
+| CentOS Stream 9         | Semeru Open Edition 11  | 3.9.6 | PPC64LE  |  |  |
 
 
 
