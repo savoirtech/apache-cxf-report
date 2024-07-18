@@ -24,7 +24,7 @@ Apache CXF 4.0.5
 | Windows 11 Pro      | Azul Zulu 17  | 3.8.5 | x64      | Success | July 16, 2024 | |
 | Windows 11       | MS OpenJDK 17  | 3.9.8 | AArch64      | Failure | July 16, 2024 | Code Generation Maven2 Plugins |
 | Windows 11       | Azul Zulu 17  | 3.9.8 | AArch64      | Failure | July 16, 2024 | Code Generation Maven2 Plugins |
-| Windows 11       | Azul Zulu 17  | 3.9.8 | AArch64      | - | - | x64 JVM running via Prism |
+| Windows 11       | Azul Zulu 17  | 3.9.8 | AArch64      | Failure | July 18, 2024 | x64 JVM running via Prism. Distributed Tracing Integration System Tests |
 | Windows 11       | Bellsoft Liberica 17  | 3.9.8 | AArch64      | Failure | July 16. 2024 | Distributed Tracing Integration System Tests |
 | Windows 11       | IBM Semeru 21  | 3.9.8 | AArch64      | Success | July 17. 2024 | x64 JVM running via Prism |
 | Windows 11       | Azul Zulu 21  | 3.9.8 | AArch64      | Failure | July 18, 2024 | Distributed Tracing Integration System Tests |
