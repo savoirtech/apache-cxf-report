@@ -9,13 +9,13 @@ Apache CXF 4.0.6
 |---------------------|-----------|-------|--------------|------------|-------|-------|
 | CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      | Success | Dec 4, 2024 | |
 | CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      | Success | Dec 4, 2024 | Failed WS-Security System Test case |
-| CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE      |  |  | |
+| CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE      | Success | Dec 4, 2024 | |
 | MacOS 15.1.1          | IBM Semeru 17  | 3.9.5 | AArch64      |  |  | |
 | MacOS 15.1.1          | Azul Zulu 17  | 3.9.5 | AArch64      |  |  | |
 | MacOS 15.1.1          | Eclipse Adoptium 17  | 3.9.5 | AArch64      |  |  | |
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64      | Success | Dec 4, 2024 | |
 | Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64      | Success | Dec 4, 2024 | |
-| Ubuntu 22.04 LTS    | Amazon Corretto 17  | 3.9.5 | x64      |  |  | |
+| Ubuntu 22.04 LTS    | Amazon Corretto 17  | 3.9.5 | x64      | Success | Dec 4, 2024 | |
 | Ubuntu 22.04 LTS    | Bellsoft Liberica 17  | 3.9.5 | x64      |  |  | |
 | Ubuntu 24.04 LTS    | IBM Semeru 17  | 3.9.8 | AArch64      |  |  | |
 | Ubuntu 24.04 LTS    | Bellsoft Liberica 17 | 3.9.8 | AArch64      |  | |  |
