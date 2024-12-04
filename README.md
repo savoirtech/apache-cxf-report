@@ -20,7 +20,7 @@ Apache CXF 4.0.6
 | Ubuntu 24.04 LTS    | IBM Semeru 17  | 3.9.8 | AArch64      |  |  | |
 | Ubuntu 24.04 LTS    | Bellsoft Liberica 17 | 3.9.8 | AArch64      |  | |  |
 | Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64      |  | | |
-| Windows 11 Pro      | IBM Semeru 17  | 3.8.5 | x64      | Pending | Dec 4, 2024 |  |
+| Windows 11 Pro      | IBM Semeru 17  | 3.8.5 | x64      | Success | Dec 4, 2024 |  |
 | Windows 11 Pro      | Azul Zulu 17  | 3.8.5 | x64      |  | | |
 | Windows 11       | MS OpenJDK 17  | 3.9.8 | AArch64      |  |  | |
 | Windows 11       | Azul Zulu 17  | 3.9.8 | AArch64      |  |  |  |
