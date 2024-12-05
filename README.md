@@ -9,7 +9,7 @@ Apache CXF 3.6.5
 |---------------------|-----------|-------|--------------|------------|-------|-------|
 | CentOS Stream 9         | Eclipse Temurin 11  | 3.9.6 | PPC64LE      | Success | Dec 5, 2024 | |
 | CentOS Stream 9         | Eclipse Temurin 17  | 3.9.6 | PPC64LE      | Success | Dec 5, 2024 | |
-| CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      |  |  |  |
+| CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      | Success | Dec 5, 2024 | Assorted Security errors - x509 (as previously experienced) |
 | CentOS Stream 9         | Semeru Open Edition 11  | 3.9.6 | PPC64LE  |  |  |  |
 | CentOS Stream 9         | Semeru Open Edition 17  | 3.9.6 | PPC64LE  |  |  | |
 | Ubuntu 22.04 LTS         | Bellsoft Liberica 17  | 3.9.5 | x64      | Success | Dec 5, 2024 | |
