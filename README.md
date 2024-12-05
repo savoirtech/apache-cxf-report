@@ -11,7 +11,7 @@ Apache CXF 3.5.10
 | CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      | Success | Dec 5, 2024 | Assorted Security errors - x509 (as previously experienced) |
 | CentOS Stream 9         | Semeru Open Edition 11  | 3.9.6 | PPC64LE  | Success | Dec 4, 2024 | Failed OSGI Integration Test case |
 | Ubuntu 22.04 LTS         | Azul Zulu 11  | 3.9.6 | x64  | Success | Dec 4, 2024 |  |
-| Ubuntu 22.04 LTS         | Semeru Open Edition 7 | 3.9.6 | x64  | Pending | Dec 5, 2024 | Circuit Breaker test case stalls. |
+| Ubuntu 22.04 LTS         | Semeru Open Edition 7 | 3.9.6 | x64  | Failure | Dec 5, 2024 | Circuit Breaker test case stalls full build. |
 
 
 
