@@ -19,7 +19,7 @@ Apache CXF 4.0.6
 | Ubuntu 22.04 LTS    | Bellsoft Liberica 17  | 3.9.5 | x64      | Success | Dec 4, 2024| |
 | Ubuntu 24.04 LTS    | IBM Semeru 17  | 3.9.8 | AArch64      | Success | Dec 5, 2024 | |
 | Ubuntu 24.04 LTS    | Bellsoft Liberica 17 | 3.9.8 | AArch64      | Success | Dec 5, 2024 | Severl test case failures, HttpClient 5, Distributed Tracing, and Transport Sys tests. |
-| Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64      |  | | |
+| Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64      | Success | Dec 5, 2024 | |
 | Windows 11 Pro      | IBM Semeru 17  | 3.8.5 | x64      | Success | Dec 4, 2024 |  |
 | Windows 11 Pro      | Azul Zulu 17  | 3.8.5 | x64      | Success | Dec 4, 2024 | |
 | Windows 11       | MS OpenJDK 17  | 3.9.8 | AArch64      | Failure | Dec 4, 2024 | Multiple modules failed test suites. |
