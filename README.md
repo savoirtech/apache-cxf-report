@@ -26,7 +26,7 @@ Apache CXF 4.0.6
 | Windows 11       | Azul Zulu 17  | 3.9.8 | AArch64      | Success | Dec 5, 2024 | Distributed Tracing Integration System test case fail.|
 | Windows 11       | Bellsoft Liberica 17  | 3.9.8 | AArch64      | Success | Dec 4, 2024 | Distributed Tracing Integration System test case fail. |
 | Windows 11       | IBM Semeru 21  | 3.9.8 | AArch64      | Success | Dec 5, 2024 |  |
-| Windows 11       | Azul Zulu 21  | 3.9.8 | AArch64      |  |  |  |
+| Windows 11       | Azul Zulu 21  | 3.9.8 | AArch64      |  Success | Dec 4, 2024 | Distributed Tracing Integration System test case fail. |
 
 
 
