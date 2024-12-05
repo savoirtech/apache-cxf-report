@@ -11,7 +11,7 @@ Apache CXF 4.0.6
 | CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      | Success | Dec 4, 2024 | Failed WS-Security System Test case |
 | CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE      | Success | Dec 4, 2024 | |
 | MacOS 15.1.1          | IBM Semeru 17  | 3.9.5 | AArch64      | Success | Dec 5, 2024 | WS-Discovery API and SSE Integration for Undertow had failed test cases. |
-| MacOS 15.1.1          | Azul Zulu 17  | 3.9.5 | AArch64      |  |  | |
+| MacOS 15.1.1          | Azul Zulu 17  | 3.9.5 | AArch64      | Success | Dec 5, 2024 | |
 | MacOS 15.1.1          | Eclipse Adoptium 17  | 3.9.5 | AArch64      |  |  | |
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64      | Success | Dec 4, 2024 | |
 | Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64      | Success | Dec 4, 2024 | |
