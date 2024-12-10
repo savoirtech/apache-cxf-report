@@ -14,7 +14,7 @@ Apache CXF 4.1.0
 | MacOS 15.1.1          | Azul Zulu 17  | 3.9.5 | AArch64     | Pending |  | |
 | MacOS 15.1.1          | Eclipse Adoptium 17  | 3.9.5 | AArch64      | Success | Dec 10, 2024  | Failed test cases in SEE for Tomcat/Undertow, and WS Discovery API |
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64      | Success | Dec 10, 2024 | |
-| Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64     | Pending |  | ||
+| Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64     | Success | Dec 10, 2024 | ||
 | Ubuntu 22.04 LTS    | Amazon Corretto 17  | 3.9.5 | x64      |  |  | |
 | Ubuntu 22.04 LTS    | Bellsoft Liberica 17  | 3.9.5 | x64      |  |  | |
 | Ubuntu 24.04 LTS    | IBM Semeru 17  | 3.9.8 | AArch64      |  |  | |
