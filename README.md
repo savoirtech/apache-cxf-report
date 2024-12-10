@@ -10,7 +10,7 @@ Apache CXF 4.1.0
 | CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      | Success  | Dec 10, 2024 | |
 | CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      |  |  | |
 | CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE      |  |  | |
-| MacOS 15.1.1          | IBM Semeru 17  | 3.9.5 | AArch64      |  |  | |
+| MacOS 15.1.1          | IBM Semeru 17  | 3.9.5 | AArch64      | Success | Dec 10, 2024 | A small number of failed test cases WS-Discovery API, Uncategorized System Tests, JAX-WS System Tests, SSE Integration System Tests for Undertow |
 | MacOS 15.1.1          | Azul Zulu 17  | 3.9.5 | AArch64     | Failed | Dec 10, 2024 | CXF Core, CXF Code Generation Maven2 Plugins, CXF WADL2Java Code Generation Maven2 Plugin, CXF WS-Discovery API, Test for generating code from wsdl in repo, SSE Integration System Tests for Tomcat |
 | MacOS 15.1.1          | Eclipse Adoptium 17  | 3.9.5 | AArch64      | Success | Dec 10, 2024  | Failed test cases in SSE for Tomcat/Undertow, and WS Discovery API |
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64      | Success | Dec 10, 2024 | |
