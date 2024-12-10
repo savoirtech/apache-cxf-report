@@ -8,7 +8,7 @@ Apache CXF 4.1.0
 | Operating System    | JDK       | Maven | Architecture | Full Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|------------|-------|-------|
 | CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      | Success  | Dec 10, 2024 | |
-| CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      |  |  | |
+| CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      | Success  | Dec 10, 2024 | |
 | CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE      |  |  | |
 | MacOS 15.1.1          | IBM Semeru 17  | 3.9.5 | AArch64      | Success | Dec 10, 2024 | A small number of failed test cases WS-Discovery API, Uncategorized System Tests, JAX-WS System Tests, SSE Integration System Tests for Undertow |
 | MacOS 15.1.1          | Azul Zulu 17  | 3.9.5 | AArch64     | Failed | Dec 10, 2024 | CXF Core, CXF Code Generation Maven2 Plugins, CXF WADL2Java Code Generation Maven2 Plugin, CXF WS-Discovery API, Test for generating code from wsdl in repo, SSE Integration System Tests for Tomcat |
@@ -16,7 +16,7 @@ Apache CXF 4.1.0
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64      | Success | Dec 10, 2024 | |
 | Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64     | Success | Dec 10, 2024 | |
 | Ubuntu 22.04 LTS    | Amazon Corretto 17  | 3.9.5 | x64      | Success | Dec 10, 2024 | |
-| Ubuntu 22.04 LTS    | Bellsoft Liberica 17  | 3.9.5 | x64      |  |  | |
+| Ubuntu 22.04 LTS    | Bellsoft Liberica 17  | 3.9.5 | x64      | Success  | Dec 10, 2024 | |
 | Ubuntu 24.04 LTS    | IBM Semeru 17  | 3.9.8 | AArch64      |  |  | |
 | Ubuntu 24.04 LTS    | Bellsoft Liberica 17 | 3.9.8 | AArch64      |  |  | |
 | Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64      |  |  | |
