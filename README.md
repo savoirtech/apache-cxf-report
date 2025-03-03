@@ -1,7 +1,7 @@
 # Apache CXF Report
 --- 
 
-Apache CXF 3.5.10
+Apache CXF 3.5.11
 
 ## System Report
 
