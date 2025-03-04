@@ -12,7 +12,7 @@ Apache CXF 4.0.7
 | CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE       |  |  | |
 | MacOS 15.1.1          | IBM Semeru 17  | 3.9.5 | AArch64      |  |  | |
 | MacOS 15.1.1          | Azul Zulu 17  | 3.9.5 | AArch64       |  |  | |
-| MacOS 15.1.1          | Eclipse Adoptium 17  | 3.9.5 | AArch64      |  |  | |
+| MacOS 15.3          | Eclipse Adoptium 17  | 3.9.5 | AArch64      | Pending |  | Apache CXF Observability using Micrometer Observation |
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64       |  |  | |
 | Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64      |  |  | |
 | Ubuntu 22.04 LTS    | Amazon Corretto 17  | 3.9.5 | x64       |  |  | |
