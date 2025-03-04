@@ -7,7 +7,7 @@ Apache CXF 4.1.1
 
 | Operating System    | JDK       | Maven | Architecture | Full Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|------------|-------|-------|
-| CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      |   |  | |
+| CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      | Pending  |  | |
 | CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE      |   |  | |
 | CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE     |   |  | |
 | MacOS 15.3          | IBM Semeru 17  | 3.9.5 | AArch64      | Success  | March 4, 2025 | Apache CXF SSE Integration System Tests for Tomcat .|
