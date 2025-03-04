@@ -9,7 +9,7 @@ Apache CXF 3.6.6
 |---------------------|-----------|-------|--------------|------------|-------|-------|
 | CentOS Stream 9         | Eclipse Temurin 11  | 3.9.6 | PPC64LE      |  |  | |
 | CentOS Stream 9         | Eclipse Temurin 17  | 3.9.6 | PPC64LE      |  |  | |
-| CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      |  |  | |
+| CentOS Stream 9         | Red Hat OpenJDK 11  | 3.9.6 | PPC64LE      | Success | March 4, 2025 | |
 | CentOS Stream 9         | Semeru Open Edition 11  | 3.9.6 | PPC64LE  |  |  | |
 | CentOS Stream 9         | Semeru Open Edition 17  | 3.9.6 | PPC64LE  |  |  | |
 | Ubuntu 22.04 LTS         | Bellsoft Liberica 17  | 3.9.5 | x64      | Success | March 4, 2025 | |
