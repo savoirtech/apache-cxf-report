@@ -10,8 +10,8 @@ Apache CXF 4.0.7
 | CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      |  |  | |
 | CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE       |  |  | |
 | CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE       |  |  | |
-| MacOS 15.1.1          | IBM Semeru 17  | 3.9.5 | AArch64      |Success | March 4, 2025| Apache CXF SSE Integration System Tests for Tomcat|
-| MacOS 15.1.1          | Azul Zulu 17  | 3.9.5 | AArch64       | Success | March 4, 2025| Apache CXF SSE Integration System Tests for Tomcat |
+| MacOS 15.3          | IBM Semeru 17  | 3.9.5 | AArch64      |Success | March 4, 2025| Apache CXF SSE Integration System Tests for Tomcat|
+| MacOS 15.3          | Azul Zulu 17  | 3.9.5 | AArch64       | Success | March 4, 2025| Apache CXF SSE Integration System Tests for Tomcat |
 | MacOS 15.3          | Eclipse Adoptium 17  | 3.9.5 | AArch64      | Success | March 4, 2025 | Apache CXF Observability using Micrometer Observation |
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64       |  |  | |
 | Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64      |  |  | |
