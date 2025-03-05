@@ -18,7 +18,7 @@ Apache CXF 4.1.1
 | Ubuntu 22.04 LTS    | Bellsoft Liberica 17  | 3.9.5 | x64     |   |  | |
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.8 | x64      | Success  | March 4, 2025| |
 | Ubuntu 24.04 LTS    | IBM Semeru 17  | 3.9.8 | AArch64      |   |  | |
-| Ubuntu 24.04 LTS    | Bellsoft Liberica 17 | 3.9.8 | AArch64      |   |  | |
+| Ubuntu 24.04 LTS    | Bellsoft Liberica 17 | 3.9.8 | AArch64      |Success  | March 5, 2025| |
 | Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64      |Success  | March 4, 2025| |
 | Windows 11 Pro      | IBM Semeru 17  | 3.8.5 | x64      | Success  | March 4, 2025 | |
 | Windows 11 Pro      | Azul Zulu 17  | 3.8.5 | x64      | Success  | March 4, 2025 | |
