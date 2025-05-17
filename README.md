@@ -19,7 +19,7 @@ Apache CXF 4.1.2
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.8 | x64      | Success | May 17, 2025| |
 | Ubuntu 24.04 LTS    | IBM Semeru 17  | 3.9.8 | AArch64      |   | | |
 | Ubuntu 24.04 LTS    | Bellsoft Liberica 17 | 3.9.8 | AArch64      |   | | |
-| Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64      |   | | |
+| Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64      |Success | May 17, 2025| Some intermitant test failures in HttpClient 5.x transport system tests |
 | Windows 11 Pro      | IBM Semeru 17  | 3.8.5 | x64      |Success | May 17, 2025| |
 | Windows 11 Pro      | Azul Zulu 17  | 3.8.5 | x64      |  Success | May 17, 2025 | |
 | Windows 11       | MS OpenJDK 17  | 3.9.8 | AArch64      |Success  | May 17, 2025| |
