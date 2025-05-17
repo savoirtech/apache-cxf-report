@@ -14,7 +14,7 @@ Apache CXF 3.6.7
 | CentOS Stream 9         | Semeru Open Edition 17  | 3.9.6 | PPC64LE  | Success | May 17, 2025 |  |
 | Ubuntu 22.04 LTS         | Bellsoft Liberica 17  | 3.9.5 | x64      |Success | May 17, 2025| |
 | Ubuntu 22.04 LTS         | Azul Zulu 17  | 3.9.5 | x64      |Success | May 17, 2025| |
-| Ubuntu 22.04 LTS         | Eclipse Adoptium 17  | 3.9.5 | x64      |  | | |
+| Ubuntu 22.04 LTS         | Eclipse Adoptium 17  | 3.9.5 | x64      |Success | May 17, 2025| |
 
 
 ## Errata
