@@ -16,7 +16,7 @@ Apache CXF 4.0.8
 | Ubuntu 22.04 LTS    | IBM Semeru 17  | 3.9.5 | x64       |Success | May 18, 2025| |
 | Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 3.9.5 | x64      |Success| May 18, 2025| |
 | Ubuntu 22.04 LTS    | Amazon Corretto 17  | 3.9.5 | x64       |Success| May 18, 2025| |
-| Ubuntu 22.04 LTS    | Bellsoft Liberica 17  | 3.9.5 | x64      | | | |
+| Ubuntu 22.04 LTS    | Bellsoft Liberica 17  | 3.9.5 | x64      |Success| May 18, 2025| |
 | Ubuntu 24.04 LTS    | IBM Semeru 17  | 3.9.8 | AArch64       | Success | May 18, 2025| |
 | Ubuntu 24.04 LTS    | Bellsoft Liberica 17 | 3.9.8 | AArch64       |Success | May 18, 2025| |
 | Ubuntu 24.04 LTS    | Azul Zulu 17  | 3.9.8 | AArch64       |Success | May 18, 2025| |
