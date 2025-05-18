@@ -23,7 +23,7 @@ Apache CXF 4.0.8
 | Windows 11 Pro      | IBM Semeru 17  | 3.8.5 | x64       | Success| May 17, 2025| |
 | Windows 11 Pro      | Azul Zulu 17  | 3.8.5 | x64       |Success| May 17, 2025| |
 | Windows 11       | MS OpenJDK 17  | 3.9.8 | AArch64       |Success| May 18, 2025| |
-| Windows 11       | Azul Zulu 17  | 3.9.8 | AArch64       | | | |
+| Windows 11       | Azul Zulu 17  | 3.9.8 | AArch64       |Success| May 18, 2025| |
 | Windows 11       | Bellsoft Liberica 17  | 3.9.8 | AArch64       | | | |
 | Windows 11       | IBM Semeru 21  | 3.9.8 | AArch64       | Success| May 18, 2025| Intermitant system test failures|
 | Windows 11       | Azul Zulu 21  | 3.9.8 | AArch64       | | | |
