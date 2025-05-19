@@ -9,7 +9,7 @@ Apache CXF 4.0.8
 |---------------------|-----------|-------|--------------|------------|-------|-------|
 | CentOS Stream 9     | IBM Semeru 17  | 3.9.6 | PPC64LE      | Success | May 18, 2025 | Failure on MicroProfile Rest Client TCK on Weld |
 | CentOS Stream 9     | Red Hat OpenJDK 17  | 3.9.6 | PPC64LE       | | | |
-| CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE       | | | |
+| CentOS Stream 9     | Eclipse Adoptium 17  | 3.9.6 | PPC64LE       |Success | May 19, 2025| |
 | MacOS 15.3          | IBM Semeru 17  | 3.9.5 | AArch64      | Success| May 17,2025| Apache CXF SSE Integration System Tests for Tomcat|
 | MacOS 15.3          | Azul Zulu 17  | 3.9.5 | AArch64       |Success| May 17,2025| Apache CXF SSE Integration System Tests for Tomcat & Undertow|
 | MacOS 15.3          | Eclipse Adoptium 17  | 3.9.5 | AArch64      | Success | May 18, 2025| |
